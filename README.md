@@ -42,6 +42,7 @@ Además, soy <b>Fullstack Developer</b> con experiencia en múltiples tecnologí
 ---
 
 <h2>📊 GitHub Stats</h2>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichKing-sudo&theme=tokyonight" />
 </p>
 
