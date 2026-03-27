@@ -24,7 +24,6 @@ Además, soy <b>Fullstack Developer</b> con experiencia en múltiples tecnologí
 ---
 
 <h2>⚡ Tecnologías</h2>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java,c,html,css,nodejs,laravel,git,linux" />
 </p>
