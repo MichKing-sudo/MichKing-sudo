@@ -53,7 +53,6 @@ Además, soy <b>Fullstack Developer</b> con experiencia en múltiples tecnologí
 ---
 
 <h2 align="center">⚡ "Hack the system. Secure the future." ⚡</h2>
-
 <p align="center">
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
 </p>
